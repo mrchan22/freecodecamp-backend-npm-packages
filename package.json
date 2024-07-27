@@ -2,6 +2,9 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "chandru.s",
 	"description": "This is freecodecamp backend project for managing npm packages",
+	"keywords": [ "freecodecamp", "node packages", "course" ],
+	"license": "CHAN",
+	"version": "1.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
